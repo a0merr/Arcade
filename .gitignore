@@ -1,0 +1,6 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# High scores, written by the game on first run (see main.py)
+.high_scores.json
